@@ -34,4 +34,6 @@ Se contempla una corrección urgente para mantener el funcionamiento adecuado de
 
 ## Actividad 3: Maquetación HTML5
 
+
 En esta actividad se desarrolla el prototipo inicial de la interfaz web del sistema, utilizando HTML5 y etiquetas semánticas para organizar el contenido y facilitar la navegación entre sus páginas.
+
